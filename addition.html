@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math Game</title>
+    <!-- <link rel="stylesheet" href="./assets/css/normalize.css">
+    <link rel="stylesheet" href="./assets/css/reset.css">
+    <link rel="stylesheet" href="./assets/css/grid.css"> -->
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/styleWave.css">
+</head>
+<body>
+
+    <div class="checkLocale">
+        <input type="checkbox" name="" class="langBtn">
+    </div>
+
+    <section class="container operation">
+        <h1 class="calculation"></h1>
+        <label for="answer" class="answer">Answer</label>
+        <input type="text" id="answer" value=" ">
+        <button class="btn submit">Submit</button>
+        <div class="report">
+            <p></p>
+            <button name="data" type="button" onclick="window.location.reload();" class="btn-next">Next</button>
+        </div>
+    </section>
+    <div class="container return">
+        <a href="./index.html"><button class="btn rtn">Return</button></a>
+    </div>
+
+
+    <section id="waves">
+        <div class="waveTop wave1"></div>
+        <div class="waveTop wave2"></div>
+        <div class="waveTop wave3"></div>
+        <div class="waveTop wave4"></div>
+
+        <div class="wave wave1"></div>
+        <div class="wave wave2"></div>
+        <div class="wave wave3"></div>
+        <div class="wave wave4"></div>
+    </section>
+
+    <script src="./assets/js/sum.js"></script>
+    <script src="./assets/js/calcLang.js"></script>
+</body>
+</html>
