@@ -1,0 +1,58 @@
+/* Estilo para Tablet */
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+    .checkLocale {
+        top: 20%;
+        left: 85%;
+        transform: translate(-50%, -50%);
+    }
+
+    .container {
+        max-width: 450px;
+        margin: 330px auto;
+        text-align: center;
+    }
+
+    .return {
+        top: 450px;
+    }
+}
+
+/* Estilo para Smartphone */
+@media only screen and (max-width: 767px) {
+    .checkLocale {
+        top: 23%;
+        left: 85%;
+        transform: translate(-50%, -50%);
+    }
+
+    .container {
+        max-width: 270px;
+        margin: 170px auto;
+        text-align: center;
+    }
+
+    .main {
+        margin: 250px auto;
+    }
+
+    .btn {
+        border: none;
+        background: #fff;
+        color: #3586ff;
+        border-radius: 10px;
+        font-size: 18px;
+        font-weight: bold;
+        height: 50px;
+        width: 110px;
+        cursor: pointer;
+        margin: 10px;
+        text-align: center;
+        font-size: 1em;
+    }
+
+    .return {
+        width: 80px;
+        height: 80px;
+        top: 360px;
+    }
+}
