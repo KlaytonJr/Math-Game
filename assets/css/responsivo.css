@@ -20,7 +20,7 @@
 /* Estilo para Smartphone */
 @media only screen and (max-width: 767px) {
     .checkLocale {
-        top: 23%;
+        top: 15%;
         left: 85%;
         transform: translate(-50%, -50%);
     }
@@ -53,6 +53,27 @@
     .return {
         width: 80px;
         height: 80px;
-        top: 360px;
+        top: 325px;
     }
+
+    #waves{
+        position: fixed;
+        width: 0%;
+        height: 100vh;
+        z-index: -10;
+        bottom: 0px;
+    }
+
+    #waves .waveTop{
+        position: fixed;
+        top: 0px;
+        left: 0;
+        width: 0%;
+        height: 100px;
+        background: url(../img/wave.png);
+        transform: scaleY(-1);
+        background-size: 1000px 100px;
+        z-index: -10;
+    }
+    
 }
