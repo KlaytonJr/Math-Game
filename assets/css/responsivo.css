@@ -20,7 +20,7 @@
 /* Estilo para Smartphone */
 @media only screen and (max-width: 767px) {
     .checkLocale {
-        top: 15%;
+        top: 20%;
         left: 85%;
         transform: translate(-50%, -50%);
     }
@@ -36,24 +36,28 @@
     }
 
     .btn {
-        border: none;
-        background: #fff;
-        color: #3586ff;
-        border-radius: 10px;
-        font-size: 18px;
-        font-weight: bold;
         height: 50px;
         width: 110px;
-        cursor: pointer;
-        margin: 10px;
-        text-align: center;
+        font-size: 1em;
+    }
+
+    .report p {
+        height: 30px;
+        width: 240px;
+        font-size: 1em;
+        line-height: 30px;
+    }
+
+    .btn-next {
+        height: 50px;
+        width: 110px;
         font-size: 1em;
     }
 
     .return {
-        width: 80px;
-        height: 80px;
-        top: 325px;
+        width: 60px;
+        height: 60px;
+        top: 300px;
     }
 
     #waves{
