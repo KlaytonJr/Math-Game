@@ -20,7 +20,7 @@
 /* Estilo para Smartphone */
 @media only screen and (max-width: 767px) {
     .checkLocale {
-        top: 20%;
+        top: 30%;
         left: 85%;
         transform: translate(-50%, -50%);
     }
@@ -57,7 +57,7 @@
     .return {
         width: 60px;
         height: 60px;
-        top: 300px;
+        top: 250px;
     }
 
     #waves{
