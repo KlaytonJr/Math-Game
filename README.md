@@ -1,4 +1,6 @@
 # Math-Game
+Try now and Improve your math, come to training your calculus skills !
+
 <h2>About :us:</h2>
 Personal project I did to help my sister improve in math. I think math is the most important thing in our life and that's why I'm developing this small project to help my sister and anyone who needs help improving math. 
 If you wants to use click on link:
