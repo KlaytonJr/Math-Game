@@ -12,10 +12,15 @@ Projeto pessoal que fiz para ajudar minha irmã a melhorar em matemática. Acho 
 Se você deseja usar clique no link:
 https://klaytonjr.github.io/Math-Game/index.html
 
-<h2>Screen Shots</h2>
-<h3>:us:</h3>
+<h2>Screen Shots :us:</h2>
+<img src="https://github.com/KlaytonJr/Math-Game/blob/main/Screnshots/Captura%20de%20Tela%202021-02-01%20às%2022.12.26.png" alt="screen-shot-start">
+<img src="https://github.com/KlaytonJr/Math-Game/blob/main/Screnshots/Captura%20de%20Tela%202021-02-01%20às%2022.12.51.png" alt="screen-shot-selection">
+<img src="https://github.com/KlaytonJr/Math-Game/blob/main/Screnshots/Captura%20de%20Tela%202021-02-01%20às%2022.13.03.png" alt="screen-shot-addition">
+<img src="https://github.com/KlaytonJr/Math-Game/blob/main/Screnshots/Captura%20de%20Tela%202021-02-01%20às%2022.13.13.png" alt="screen-shot-addition-correct">
+<img src="https://github.com/KlaytonJr/Math-Game/blob/main/Screnshots/Captura%20de%20Tela%202021-02-01%20às%2022.13.30.png" alt="screen-shot-addition-incorrect">
 
-
-<h2>Capturas de Tela</h2>
-<h3>:brazil:</h3>
-
+<h2>Capturas de Tela :brazil:</h2>
+<img src="https://github.com/KlaytonJr/Math-Game/blob/main/Screnshots/Captura%20de%20Tela%202021-02-01%20às%2022.14.12.png" alt="screen-shot-start-br">
+<img src="https://github.com/KlaytonJr/Math-Game/blob/main/Screnshots/Captura%20de%20Tela%202021-02-01%20às%2022.14.20.png" alt="screen-shot-selection-br">
+<img src="https://github.com/KlaytonJr/Math-Game/blob/main/Screnshots/Captura%20de%20Tela%202021-02-01%20às%2022.14.02.png" alt="screen-shot-addition-correct-br">
+<img src="https://github.com/KlaytonJr/Math-Game/blob/main/Screnshots/Captura%20de%20Tela%202021-02-01%20às%2022.13.39.png" alt="screen-shot-addition-incorrect-br">
